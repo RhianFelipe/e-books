@@ -1,8 +1,12 @@
 # 📚 e-Books 📚
 
- e-Books on various programming topics
- 
- 
+### Hello World!
+
+These are some e-books with topics on programming that I got over time.
+
+
+I hope you enjoy and have a good reading!
+
  ---
  ##   APPS
  - [Aprendendo Android - pt-br](https://github.com/RhianFelipe/Programming-e-books/blob/master/Apps/AprendendoAndroid.pdf)
@@ -23,7 +27,7 @@
  - [Desenvolvimento de Jogos para Android - pt-br](https://github.com/RhianFelipe/Programming-e-books/blob/master/Games/Desenvolvimento%20de%20Jogos%20para%20Android%20-%20Explore%20sua%20imaginacao%20com%20o%20framework%20Cocos2D.pdf)
  - [Desenvolvimento de Jogos para iOS - pt-br](https://github.com/RhianFelipe/Programming-e-books/blob/master/Games/Desenvolvimento%20de%20Jogos%20para%20iOS.pdf)
  - [Jogos Android - Crie um game do zero usando classes nativas - pt-br](https://github.com/RhianFelipe/Programming-e-books/blob/master/Games/Jogos%20Android%20-%20Crie%20um%20game%20do%20zero%20usando%20classes%20nativas.pdf)
- - [Jogos em HTML5 Explore o mobile e física](https://github.com/RhianFelipe/Programming-e-books/blob/master/Games/Jogos%20em%20HTML5%20Explore%20o%20mobile%20e%20f%C3%ADsica.pdf)
+ - [Jogos em HTML5 Explore o mobile e física - pt-bt](https://github.com/RhianFelipe/Programming-e-books/blob/master/Games/Jogos%20em%20HTML5%20Explore%20o%20mobile%20e%20f%C3%ADsica.pdf)
  ---
  ##  JAVASCRIPT
  - [Eloquent_JavaScript - eng](https://github.com/RhianFelipe/Programming-e-books/blob/master/JavaScript/Eloquent_JavaScript.pdf)
@@ -35,5 +39,6 @@
  ## OTHERS
  - [1+5 Good Habits - eng](https://github.com/RhianFelipe/Programming-e-books/blob/master/1%2B5%20Good%20Habits/1%2B5%20Good%20Habits.pdf) 
  - [Visual Studio Code Keyboard - eng](https://github.com/RhianFelipe/Programming-e-books/blob/master/keyboard-VScode-windows.pdf)
+ ---
  
  
